@@ -10,6 +10,8 @@ class ApplicationController < ActionController::Base
       session[:name]
   end
   
+  def welcome
+  end 
 
     
 end
